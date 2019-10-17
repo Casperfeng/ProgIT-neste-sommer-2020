@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  line-height: 0;
+}
+
+.imageContainer {
+  min-width: fit-content;
+}
+
+.progitImage {
+  display: inline-block;
+}
